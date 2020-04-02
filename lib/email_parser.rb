@@ -4,6 +4,6 @@ class EmailAddressParser
   
   def initialize(email)
     @email = email 
-    @@all << email.split(',')
+    @@all << email
   end
 end
