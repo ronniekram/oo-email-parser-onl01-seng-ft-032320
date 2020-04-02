@@ -1,0 +1,2 @@
+class EmailAddressParser
+end
