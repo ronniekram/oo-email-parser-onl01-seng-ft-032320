@@ -3,7 +3,6 @@ class EmailAddressParser
   
   def initialize(email)
     @email = email 
-    @@all << self
   end
   
   def parse 
